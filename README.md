@@ -20,3 +20,6 @@ The app is also mobile responsive by using material-ui.  It uses react-countup a
 #### Material-UI
 #### React-Countup
 #### React-Charts
+
+## Link to the App
+https://jetsgreen.github.io/progler/.
