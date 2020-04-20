@@ -1,4 +1,4 @@
-#COVID-19 APP
+# COVID-19 APP
 
 ## progler
 
@@ -11,17 +11,17 @@ in size.
 
 ### Technologies
 
-HTML
-CSS
-Javascript
-React.js(Hooks)
-Google Fonts
+##### HTML
+##### CSS
+##### Javascript
+##### React.js(Hooks)
+##### Google Fonts
 
 ### Dependencies
 
-Material-UI
-React-Countup
-React-Charts
+##### Material-UI
+##### React-Countup
+##### React-Charts
 
 Link to the App
 https://jetsgreen.github.io/progler/.
