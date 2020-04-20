@@ -9,7 +9,7 @@ app is also mobile responsive by using material-ui. It uses react-countup and re
 animation of the numbers going up in count when you first load the page, and react-charts display the animation of the bar going up 
 in size.
 
-### Technologies
+### Technologies:
 
 ##### HTML
 ##### CSS
@@ -17,11 +17,11 @@ in size.
 ##### React.js(Hooks)
 ##### Google Fonts
 
-### Dependencies
+### Dependencies:
 
 ##### Material-UI
 ##### React-Countup
 ##### React-Charts
 
-Link to the App
+Link to the App:
 https://jetsgreen.github.io/progler/.
