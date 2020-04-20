@@ -10,13 +10,13 @@ The app is also mobile responsive by using material-ui.  It uses react-countup a
 
 ## Technologies 
 
-# HTML
-# CSS
-# Javascript
-# React.js(Hooks)
-# Google Fonts
+#### HTML
+#### CSS
+#### Javascript
+#### React.js(Hooks)
+#### Google Fonts
 
 ## Dependencies
-# Material-UI
-# React-Countup
-# React-Charts
+#### Material-UI
+#### React-Countup
+#### React-Charts
