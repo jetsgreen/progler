@@ -12,7 +12,7 @@ export default function FixedContainer() {
       <Container fixed>
         <Typography component="div" className='div' >
         <h1>CORONAVIRUS (COVID-19)</h1>
-            <a href="https://covid-19-apis.postman.com/covid-19-testing-locations/" target="_blank" style={{textDecoration:'none'}}><Button className="btn" variant="contained" color="secondary">Testing Locations</Button></a>
+            <a href="https://covid-19-apis.postman.com/covid-19-testing-locations/" rel="noopener noreferrer" target="_blank" style={{textDecoration:'none'}}><Button className="btn" variant="contained" color="secondary">Testing Locations</Button></a>
         </Typography>
       </Container>
     </React.Fragment>

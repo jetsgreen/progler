@@ -28,7 +28,6 @@ console.log(fetchedData)
  this.setState({data: fetchedData, country: country})
 }
 
-
 // componentDidMount() {
   
 //   axios.get('https://covid19.mathdro.id/api').then(response =>{
@@ -38,16 +37,16 @@ console.log(fetchedData)
 
 
   render() {
-    const { data } = this.state
+    
     return (
       
       
     <div className='container'>
       <ButtonAppBar/>
       <FixedContainer/>
-        <Cards data={data}/>
+        <Cards data={this.state.data}/>
         <CountryPicker handleCountryChange={this.handleCountryChange}/>
-        <Charts data={data} country={this.state.country}/>
+        <Charts data={this.state.data} country={this.state.country}/>
         
 
       </div>

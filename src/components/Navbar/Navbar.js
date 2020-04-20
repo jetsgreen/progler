@@ -15,7 +15,7 @@ export default function ButtonAppBar() {
         <Toolbar xs={3} md={12}>
           
           <Typography variant="h6" >
-         <a href="#" style={{color: "white", textDecoration: "none"}}>News Articles</a>
+         <a href="/" style={{color: "white", textDecoration: "none"}}>News Articles</a>
           </Typography>
           
         </Toolbar>
