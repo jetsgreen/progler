@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/progler/static/css/main.f864b929.chunk.css",
+    "main.js": "/progler/static/js/main.bcde51b2.chunk.js",
+    "main.js.map": "/progler/static/js/main.bcde51b2.chunk.js.map",
+    "runtime-main.js": "/progler/static/js/runtime-main.d806db58.js",
+    "runtime-main.js.map": "/progler/static/js/runtime-main.d806db58.js.map",
+    "static/js/2.3e702dee.chunk.js": "/progler/static/js/2.3e702dee.chunk.js",
+    "static/js/2.3e702dee.chunk.js.map": "/progler/static/js/2.3e702dee.chunk.js.map",
+    "index.html": "/progler/index.html",
+    "precache-manifest.e2a313d4ec96e1a5ac715d6541281a95.js": "/progler/precache-manifest.e2a313d4ec96e1a5ac715d6541281a95.js",
+    "service-worker.js": "/progler/service-worker.js",
+    "static/css/main.f864b929.chunk.css.map": "/progler/static/css/main.f864b929.chunk.css.map",
+    "static/js/2.3e702dee.chunk.js.LICENSE.txt": "/progler/static/js/2.3e702dee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d806db58.js",
+    "static/js/2.3e702dee.chunk.js",
+    "static/css/main.f864b929.chunk.css",
+    "static/js/main.bcde51b2.chunk.js"
+  ]
+}
