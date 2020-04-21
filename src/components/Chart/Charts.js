@@ -36,7 +36,7 @@ const lineChart =(
 const barChart = (
     
     data.confirmed ? (
-        <Bar
+        <Bar 
         data={
             {
                 labels: ['Infected', 'Recovered', 'Deaths'],
@@ -53,7 +53,7 @@ const barChart = (
         }
         options={{
             legend: { display: false },
-            title: { display: true, text: <strong>`Current state in ${country}`</strong>},
+            title: { display: true, text: `Current state in ${country}`},
         }}/>
     
         ) : null
